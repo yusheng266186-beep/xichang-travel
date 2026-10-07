@@ -5,6 +5,25 @@
 > 在线页面：[打开西昌旅行攻略](https://yusheng266186-beep.github.io/xichang-travel/)  
 > GitHub：[查看源代码](https://github.com/yusheng266186-beep/xichang-travel)
 
+<!-- project-navigation:start -->
+## 项目概览
+
+| 项目 | 说明 |
+| --- | --- |
+| 分类 | 旅行与互动展示 |
+| 平台 | 浏览器 / 静态网页 |
+| 当前定位 | 已归档 · 旅行手册 |
+
+面向双人休闲出行的西昌四天三晚可视化旅行攻略。
+
+[历史页面](https://yusheng266186-beep.github.io/xichang-travel/) · [使用与开发](#使用方式) · [项目总导航](https://github.com/yusheng266186-beep/yusheng266186-beep)
+
+**归档说明：** 本库保留历史作品与当时的开发、部署或行程记录。原文中的日期、价格和版本具有历史语境，使用前需核对当前信息。
+
+**阅读导航：** [使用方式](#使用方式)
+
+<!-- project-navigation:end -->
+
 ## 行程定位
 
 页面目前以 4月1日中午抵达、4月4日下午离开为时间背景，住宿设定为漫心酒店，适合希望以自然风光、轻松拍照和城市休闲为主的双人旅行。
